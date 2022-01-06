@@ -83,3 +83,40 @@ h2{
     padding: 1rem;
     padding-left: 2rem;
 }
+.flexItem{
+    display: flex;
+}
+.BannerImg{
+    height: 400px;
+    width: 400px;
+}
+.develop{
+    padding: .2rem;
+    margin-left: 3rem;
+}
+.develop1{
+    padding: .2rem;
+    margin-left: 3rem;
+    margin-top: 3rem;
+
+}
+.textDevelop{
+    font-size: 45px;
+    font-weight: bold;
+}
+.devButton{
+    height: 48px;
+    width: 227px;
+    background-color: #F96668;
+    color:#fff;
+    border: 0px;
+    border-radius: 2%;
+}
+.BannerImg1{
+    margin-left: 4rem;
+}
+
+.BannerImg2{
+    height: 542px;
+    width: 330px;
+}
