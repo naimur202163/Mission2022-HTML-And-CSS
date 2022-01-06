@@ -120,3 +120,9 @@ h2{
     height: 542px;
     width: 330px;
 }
+.footer{
+    text-align: center;
+    height: 177px;
+    background-color: #0B0D17;
+    color:#fff
+}
