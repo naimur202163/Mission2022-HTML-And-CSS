@@ -49,8 +49,37 @@ h2{
     grid-template-columns: auto auto auto ;
     grid-gap:10px
 }
-.box{
-    border: 1px solid green;
+.box1{
     width: 360px;
     height: 376px;
+    background-color: #EDF5F6;
+    padding: 1rem;
+    border-radius: 7%;
+}
+.box2{
+    padding: 1rem;
+    width: 360px;
+    height: 376px;
+    background-color: #FFEEEE;
+      border-radius: 7%;
+}
+.box3{
+    padding:1rem ;
+    width: 360px;
+    height: 376px;
+    background-color: #FFF4D6;
+      border-radius: 7%;
+}
+.logImg1{
+    height: 141px;
+    width: 141px;
+}
+.boxText1{
+    font-weight: bold;
+    margin-left: 1rem;
+    font-size: 1.5rem;
+}
+.BoxContainer{
+    padding: 1rem;
+    padding-left: 2rem;
 }
