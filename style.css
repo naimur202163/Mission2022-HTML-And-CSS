@@ -2,6 +2,55 @@ h2{
     color:blue
 }
 .container{
-    width: 970px;
+    width: 980px;
     margin:auto;
+}
+.text{
+    font-size: 60px;
+}
+.textColor1{
+    color:#333333
+}
+.textColor2{
+    color: #FFAD5A;
+}
+.border{
+    border-left: 5px solid #F96668;
+}
+.textContainer{
+    margin-left: 1rem;
+}
+.flexibleContainer{
+    display: flex;
+}
+.img{
+    width: 480px;
+    height: 625px;
+    padding-left: 2rem;
+}
+.Button{
+    background-color: #F96668;
+    color:#fff;
+    border: 0px;
+    padding: 10px 20px;
+
+}
+.buttonText{
+    margin-top: 2rem;
+}
+.missionText{
+    text-align: center;
+}
+.year2020{
+    color:#FFAD5A
+}
+.gridContainer{
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    grid-gap:10px
+}
+.box{
+    border: 1px solid green;
+    width: 360px;
+    height: 376px;
 }
